@@ -1,6 +1,6 @@
 {
   "name": "anq-phone-number-input",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "description": "A powerful, customizable phone number input component for Quasar Framework and Vue 3 applications. Features include international phone number formatting, validation, and seamless integration with Quasar's design system.",
   "type": "module",
   "main": "./dist/anq-phone-number-input.umd.cjs",

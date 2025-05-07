@@ -15,7 +15,7 @@ A Vue 3 component for phone number input with country selection, built with Quas
 ## Installation
 
 ```bash
-npm install an-quasar-phone-number-input
+npm install anq-phone-number-input
 ```
 
 ## Basic Usage
