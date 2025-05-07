@@ -30,7 +30,7 @@ npm install anq-phone-number-input
 
 <script setup lang="ts">
 import { ref } from 'vue'
-import AnqPhoneNumberInput from 'an-quasar-phone-number-input'
+import AnqPhoneNumberInput from 'anq-phone-number-input'
 import type { ICountryData } from 'countries-list'
 
 const phoneNumber = ref('')
